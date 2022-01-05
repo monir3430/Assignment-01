@@ -1,0 +1,75 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.flexibility{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.m-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+    margin-right: 30px;
+}
+.explore{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 5px 30px;
+    border-radius: 5px;
+}
+.b-left{
+    border-left: 3px solid orange;
+}
+.bg-1{
+    background-image: url(illustrators/illustrator-1.png);
+    background-clip:content-box;
+    padding-left: 10px;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    border-radius: 10px;
+    background-color:rgb(229, 238, 238)
+    
+}
+.bg-2{
+    background-image: url(illustrators/illustrator-2.png);
+    background-clip:content-box;
+    padding-left: 10px;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    border-radius: 10px;
+    background-color:rgba(235, 217, 247, 0.993)
+}
+.bg-3{
+    background-image: url(illustrators/illustrator-3.png);
+    background-clip:content-box;
+    padding-left: 10px;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    border-radius: 10px;
+    background-color:rgba(235, 217, 247, 0.993)
+}
+.mission-22{
+text-align: center;
+color: blue;
+margin-top: 50px;
+}
+.middle{
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 250px;
+    display: flex;
+    width: 100%
+}
+.middle img{
+width: 80%;
+height: 75%;
+padding-left: 100px;
+margin-top: 20px;
+}
